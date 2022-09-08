@@ -40,6 +40,10 @@ void main() async {
   print(screen!.toString());
   print('uId is $uId');
   print(getOS());
+
+  // mostafa mohamed abd el wanies
+  // sssss
+  // from mostafa
 }
 
 class MyApp extends StatelessWidget {
